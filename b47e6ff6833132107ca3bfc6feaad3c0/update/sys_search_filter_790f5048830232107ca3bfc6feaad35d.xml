@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="MFA Tools Action Log">fe6c5b0b837132107ca3bfc6feaad392</ais_search_source>
+        <label>MFA Tools Action Log</label>
+        <name>MFA Tools Action Log</name>
+        <order>100</order>
+        <search_context_config display_value="MFA Tools AI Search Configuration">080fdc081d023210c55e29c16fb475b9</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-21 05:22:17</sys_created_on>
+        <sys_id>790f5048830232107ca3bfc6feaad35d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Tools Action Log</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_search_filter_790f5048830232107ca3bfc6feaad35d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-21 05:22:17</sys_updated_on>
+    </sys_search_filter>
+</record_update>

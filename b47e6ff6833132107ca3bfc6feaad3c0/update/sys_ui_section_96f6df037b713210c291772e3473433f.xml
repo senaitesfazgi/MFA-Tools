@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="96f6df037b713210c291772e3473433f" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1403515_mfa_to_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-18 16:12:02</sys_created_on>
+            <sys_id>1ef6df03597132104e717464996b5d3e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5af6df030771321002792e3f36b4863e">96f6df037b713210c291772e3473433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-18 16:12:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-18 16:12:02</sys_created_on>
+            <sys_id>52f6df03827132101a169d991c4dbe3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="5af6df030771321002792e3f36b4863e">96f6df037b713210c291772e3473433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-18 16:12:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2025-12-18 16:12:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>96f6df037b713210c291772e3473433f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+            <sys_update_name>sys_ui_section_96f6df037b713210c291772e3473433f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2025-12-18 16:12:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1403515_mfa_to_0)" name="custom_portal_approval_x_1403515_mfa_to_0">5af6df030771321002792e3f36b4863e</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

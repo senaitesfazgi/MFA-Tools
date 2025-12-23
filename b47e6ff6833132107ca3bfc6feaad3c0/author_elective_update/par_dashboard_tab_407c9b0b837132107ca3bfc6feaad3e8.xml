@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="DELETE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="MFA Tools">f76c9b0b837132107ca3bfc6feaad3be</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:35:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>407c9b0b837132107ca3bfc6feaad3e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>par_dashboard_tab_407c9b0b837132107ca3bfc6feaad3e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:35:54</sys_updated_on>
+    </par_dashboard_tab>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</application>
+        <file_path/>
+        <instance_id>d2c4e053dbe27514b1eb9027c596191d</instance_id>
+        <instance_name>dev220132</instance_name>
+        <name>par_dashboard_tab_407c9b0b837132107ca3bfc6feaad3e8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab"><par_dashboard_tab action="INSERT_OR_UPDATE"><active>true</active><background_color/><dashboard display_value="MFA Tools">f76c9b0b837132107ca3bfc6feaad3be</dashboard><name>Tab</name><order>0</order><sys_class_name>par_dashboard_tab</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-18 16:35:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>407c9b0b837132107ca3bfc6feaad3e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tab</sys_name><sys_overrides/><sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package><sys_policy/><sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope><sys_update_name>par_dashboard_tab_407c9b0b837132107ca3bfc6feaad3e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-18 16:35:54</sys_updated_on></par_dashboard_tab></record_update>]]></payload>
+        <payload_hash>-1855295758</payload_hash>
+        <record_name>Tab</record_name>
+        <reverted_from/>
+        <source>b07e6ff6833132107ca3bfc6feaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:35:54</sys_created_on>
+        <sys_id>487c9b0b837132107ca3bfc6feaad3ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b325166cd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:35:54</sys_updated_on>
+        <type>PAR Dashboard Tab</type>
+        <update_guid>8c7c9b0b8e71321023504633a9a0c1e9</update_guid>
+        <update_guid_history>8c7c9b0b8e71321023504633a9a0c1e9:-1855295758</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tab">32a1e70383b132107ca3bfc6feaad312</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:58:46</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_tab">par_dashboard_tab</sys_db_object>
+        <sys_id>2bac81e7104548dc9003eb8f70ee9910</sys_id>
+        <sys_metadata>407c9b0b837132107ca3bfc6feaad3e8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_scope_delete display_value="">0004cb255d4a4d74a07fb62701e77529</sys_scope_delete>
+        <sys_update_name>par_dashboard_tab_407c9b0b837132107ca3bfc6feaad3e8</sys_update_name>
+        <sys_update_version display_value="par_dashboard_tab_407c9b0b837132107ca3bfc6feaad3e8">487c9b0b837132107ca3bfc6feaad3ea</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:58:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

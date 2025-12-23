@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="MFA Tools Tasks">f66c5b0b837132107ca3bfc6feaad3d4</ais_search_source>
+        <label>MFA Tools Tasks</label>
+        <name>MFA Tools Tasks</name>
+        <order>200</order>
+        <search_context_config display_value="MFA Tools AI Search Configuration">18ea7057847932104054c20d6c541e27</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:28:38</sys_created_on>
+        <sys_id>71eab057837932107ca3bfc6feaad3ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Tools Tasks</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_search_filter_71eab057837932107ca3bfc6feaad3ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:28:38</sys_updated_on>
+    </sys_search_filter>
+</record_update>

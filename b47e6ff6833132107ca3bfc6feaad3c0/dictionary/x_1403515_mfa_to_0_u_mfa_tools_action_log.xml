@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="33b07fba833132107ca3bfc6feaad39a" label="MFA Tools Action Log" max_length="40" name="x_1403515_mfa_to_0_u_mfa_tools_action_log" text_index="true" type="collection">
+        <element label="Failure Task" max_length="40" name="failure_task" type="string"/>
+        <element choice="1" label="MFA Option" max_length="40" name="u_mfa_option" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Resend user Welcome to MFA email" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Allow External user to enroll - Bypass Geo-Fence" sequence="5" value="23"/>
+                <element inactive_on_update="false" label="Remove Allow External user to enroll - Bypass Geo-Fence" sequence="6" value="23a"/>
+                <element inactive_on_update="false" label="Lookup user's MFA status" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Reset a user’s MFA (hidden option: limited to MFA support team)" sequence="2" value="20"/>
+                <element inactive_on_update="false" label="Bypass MFA (CAUTION - troubleshooting only)" sequence="3" value="22"/>
+                <element inactive_on_update="false" label="Remove Bypass MFA (CAUTION - troubleshooting only)" sequence="4" value="22a"/>
+            </choice>
+        </element>
+        <element label="Execution Details" max_length="65536" name="mfa_execution_details" type="html"/>
+        <element label="Time Stamp" max_length="40" name="u_time_stamp" type="glide_date_time"/>
+        <element label="Details" max_length="40" name="details" type="string"/>
+        <element label="User Email" max_length="40" name="u_user_email" type="string"/>
+        <element label="Error Details" max_length="40" name="u_error_details" type="string"/>
+        <element label="Ticket ID" max_length="40" name="ticket_id" type="string"/>
+        <element label="Execution ID" max_length="40" name="execution_id" type="string"/>
+        <element label="Duration" max_length="40" name="u_duration" type="string"/>
+        <element label="Submitter _ID" max_length="40" name="submitter_id" type="string"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Success" sequence="0" value="success"/>
+                <element inactive_on_update="false" label="Failure" sequence="1" value="failure"/>
+            </choice>
+        </element>
+    </element>
+</database>

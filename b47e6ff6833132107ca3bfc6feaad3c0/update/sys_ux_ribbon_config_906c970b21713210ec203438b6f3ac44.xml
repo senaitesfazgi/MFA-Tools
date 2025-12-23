@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_ribbon_config">
+    <sys_ux_ribbon_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>MFA Tools Ribbon Config</description>
+        <name>MFA Tools Ribbon Config</name>
+        <sys_class_name>sys_ux_ribbon_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:35:41</sys_created_on>
+        <sys_id>906c970b21713210ec203438b6f3ac44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Tools Ribbon Config</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_ribbon_config_906c970b21713210ec203438b6f3ac44</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:35:41</sys_updated_on>
+    </sys_ux_ribbon_config>
+</record_update>

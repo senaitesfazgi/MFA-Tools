@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>5c6c970bab713210455916b486b37951</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>goa-mfa-tools</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:35:40</sys_created_on>
+        <sys_id>986c970bf9713210a759e9d72697fe52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Tools</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_page_registry_986c970bf9713210a759e9d72697fe52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:35:40</sys_updated_on>
+        <title>MFA Tools</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</application>
+        <file_path/>
+        <instance_id>d2c4e053dbe27514b1eb9027c596191d</instance_id>
+        <instance_name>dev220132</instance_name>
+        <name>sys_ux_page_registry_986c970bf9713210a759e9d72697fe52</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>5c6c970bab713210455916b486b37951</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>goa-mfa-tools</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-18 16:35:40</sys_created_on><sys_id>986c970bf9713210a759e9d72697fe52</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MFA Tools</sys_name><sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package><sys_policy/><sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope><sys_update_name>sys_ux_page_registry_986c970bf9713210a759e9d72697fe52</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-18 16:35:40</sys_updated_on><title>MFA Tools</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-72038791</payload_hash>
+        <record_name>MFA Tools</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:22:23</sys_created_on>
+        <sys_id>5a79f093837932107ca3bfc6feaad3cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b33c58c6e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:22:23</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>1a79f093b67932101ae41cfb01bdc2cb</update_guid>
+        <update_guid_history>1a79f093b67932101ae41cfb01bdc2cb:-72038791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:22:24</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>0a934aa198b14fd8833c5c56ef6028a4</sys_id>
+        <sys_metadata>986c970bf9713210a759e9d72697fe52</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MFA Tools</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_scope_delete display_value="">0004cb255d4a4d74a07fb62701e77529</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_986c970bf9713210a759e9d72697fe52</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_986c970bf9713210a759e9d72697fe52">5a79f093837932107ca3bfc6feaad3cb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:22:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

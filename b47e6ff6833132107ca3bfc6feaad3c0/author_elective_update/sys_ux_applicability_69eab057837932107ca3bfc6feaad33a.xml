@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability">
+    <sys_ux_applicability action="DELETE">
+        <active>true</active>
+        <api_name>x_1403515_mfa_to_0.Audience for app mfa-tools</api_name>
+        <description/>
+        <name>Audience for app mfa-tools</name>
+        <role_names/>
+        <roles>707e6ff6833132107ca3bfc6feaad3fd,fc7eaff6833132107ca3bfc6feaad302</roles>
+        <sys_class_name>sys_ux_applicability</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:28:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>69eab057837932107ca3bfc6feaad33a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app mfa-tools</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_applicability_69eab057837932107ca3bfc6feaad33a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:28:36</sys_updated_on>
+    </sys_ux_applicability>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</application>
+        <file_path/>
+        <instance_id>d2c4e053dbe27514b1eb9027c596191d</instance_id>
+        <instance_name>dev220132</instance_name>
+        <name>sys_ux_applicability_69eab057837932107ca3bfc6feaad33a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_applicability"><sys_ux_applicability action="INSERT_OR_UPDATE"><active>true</active><api_name>x_1403515_mfa_to_0.Audience for app mfa-tools</api_name><description/><name>Audience for app mfa-tools</name><role_names/><roles>707e6ff6833132107ca3bfc6feaad3fd,fc7eaff6833132107ca3bfc6feaad302</roles><sys_class_name>sys_ux_applicability</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-18 23:28:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>69eab057837932107ca3bfc6feaad33a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Audience for app mfa-tools</sys_name><sys_overrides/><sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package><sys_policy/><sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope><sys_update_name>sys_ux_applicability_69eab057837932107ca3bfc6feaad33a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-18 23:28:36</sys_updated_on></sys_ux_applicability></record_update>]]></payload>
+        <payload_hash>681676549</payload_hash>
+        <record_name>Audience for app mfa-tools</record_name>
+        <reverted_from/>
+        <source>b07e6ff6833132107ca3bfc6feaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:28:36</sys_created_on>
+        <sys_id>21eab057837932107ca3bfc6feaad33f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b33cb3f2a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:28:36</sys_updated_on>
+        <type>Audience</type>
+        <update_guid>a5eab057487932102ddfd4e8753c843e</update_guid>
+        <update_guid_history>a5eab057487932102ddfd4e8753c843e:681676549</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-21 05:34:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability">sys_ux_applicability</sys_db_object>
+        <sys_id>41717e3e101a4e169aa41d40b37901b9</sys_id>
+        <sys_metadata>69eab057837932107ca3bfc6feaad33a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Audience for app mfa-tools</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_scope_delete display_value="">0004cb255d4a4d74a07fb62701e77529</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_69eab057837932107ca3bfc6feaad33a</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_69eab057837932107ca3bfc6feaad33a">21eab057837932107ca3bfc6feaad33f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-21 05:34:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

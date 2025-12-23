@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">0ef6df03b47132101acf09b99dad2b01</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">56f6df039b713210536f06c01cee7c36</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:12:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>4ef6df03ea71321061a8710551c2e909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_page_property_4ef6df03ea71321061a8710551c2e909</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:12:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1403515_mfa_to_0.0ef6df03b47132101acf09b99dad2b01.route.chrome_header.56f6df039b713210536f06c01cee7c36</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</application>
+        <file_path/>
+        <instance_id>d2c4e053dbe27514b1eb9027c596191d</instance_id>
+        <instance_name>dev220132</instance_name>
+        <name>sys_ux_page_property_4ef6df03ea71321061a8710551c2e909</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">0ef6df03b47132101acf09b99dad2b01</page><required_translations>[]</required_translations><route display_value="Landing Page">56f6df039b713210536f06c01cee7c36</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-18 16:12:05</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>4ef6df03ea71321061a8710551c2e909</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package><sys_policy/><sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope><sys_update_name>sys_ux_page_property_4ef6df03ea71321061a8710551c2e909</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-18 16:12:05</sys_updated_on><type>json</type><unique_name>x_1403515_mfa_to_0.0ef6df03b47132101acf09b99dad2b01.route.chrome_header.56f6df039b713210536f06c01cee7c36</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>2018180747</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:24:27</sys_created_on>
+        <sys_id>b0f978d3837932107ca3bfc6feaad315</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b33c772b50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:24:27</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>70f978d31f793210c6dcc7e613145315</update_guid>
+        <update_guid_history>70f978d31f793210c6dcc7e613145315:2018180747</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:24:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>03aba232b6d94990800f2161a5737900</sys_id>
+        <sys_metadata>4ef6df03ea71321061a8710551c2e909</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_scope_delete display_value="">0004cb255d4a4d74a07fb62701e77529</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_4ef6df03ea71321061a8710551c2e909</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_4ef6df03ea71321061a8710551c2e909">b0f978d3837932107ca3bfc6feaad315</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:24:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

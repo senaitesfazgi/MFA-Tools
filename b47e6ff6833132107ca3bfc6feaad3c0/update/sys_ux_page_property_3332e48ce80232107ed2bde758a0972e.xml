@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for MFA Tools generated</description>
+        <name>view</name>
+        <page display_value="MFA Tools">3732e48c19023210052d6319edd8913c</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-21 05:36:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>3332e48ce80232107ed2bde758a0972e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_page_property_3332e48ce80232107ed2bde758a0972e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-21 05:36:22</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1403515_mfa_to_0.3732e48c19023210052d6319edd8913c.root.view</unique_name>
+        <value>workspace-mfa-tools-3</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=3332e48ce80232107ed2bde758a0972e"/>
+</record_update>

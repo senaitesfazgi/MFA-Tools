@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="MFA Tools - Workspace Search">506c970be471321055ae2a8bda47ae4b</search_context_config>
+        <source display_value="MFA Tools - x_1403515_mfa_to_0_mfa_tools_tasks">316cd70b837132107ca3bfc6feaad3bc</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 16:35:48</sys_created_on>
+        <sys_id>a26c5b0b837132107ca3bfc6feaad36f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_a26c5b0b837132107ca3bfc6feaad36f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 16:35:48</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="MFA Tools">1cea7057297932102ce77c3e56a7db2e</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:28:33</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>54ea7057f879321073ca7ac27c1aea14</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_ux_page_property_54ea7057f879321073ca7ac27c1aea14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:28:36</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1403515_mfa_to_0.1cea7057297932102ce77c3e56a7db2e.root.global.wbApplicabilityConfigId</unique_name>
+        <value>69eab057837932107ca3bfc6feaad33a</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="DELETE" query="documentkey=54ea7057f879321073ca7ac27c1aea14"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</application>
+        <file_path/>
+        <instance_id>d2c4e053dbe27514b1eb9027c596191d</instance_id>
+        <instance_name>dev220132</instance_name>
+        <name>sys_ux_page_property_54ea7057f879321073ca7ac27c1aea14</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>sys_ux_applicability sys_id for Workspace audience</description><name>wbApplicabilityConfigId</name><page display_value="MFA Tools">1cea7057297932102ce77c3e56a7db2e</page><required_translations/><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-12-18 23:28:33</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>54ea7057f879321073ca7ac27c1aea14</sys_id><sys_mod_count>1</sys_mod_count><sys_name>wbApplicabilityConfigId</sys_name><sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package><sys_policy/><sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope><sys_update_name>sys_ux_page_property_54ea7057f879321073ca7ac27c1aea14</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-12-18 23:28:36</sys_updated_on><type>string</type><unique_name>x_1403515_mfa_to_0.1cea7057297932102ce77c3e56a7db2e.root.global.wbApplicabilityConfigId</unique_name><value>69eab057837932107ca3bfc6feaad33a</value></sys_ux_page_property><sys_translated_text action="delete_multiple" query="documentkey=54ea7057f879321073ca7ac27c1aea14"/></record_update>]]></payload>
+        <payload_hash>244815625</payload_hash>
+        <record_name>wbApplicabilityConfigId</record_name>
+        <reverted_from/>
+        <source>b07e6ff6833132107ca3bfc6feaad3c5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-18 23:28:36</sys_created_on>
+        <sys_id>2deab057837932107ca3bfc6feaad35b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19b33cb3f640000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-18 23:28:36</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>a1eab057fc793210caedf0e9450ac95b</update_guid>
+        <update_guid_history>a1eab057fc793210caedf0e9450ac95b:244815625,e9eab057217932108e323554089e6559:691788117</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-21 05:34:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>2a5f63d97d974eb1913aedb2ae2de589</sys_id>
+        <sys_metadata>54ea7057f879321073ca7ac27c1aea14</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_scope_delete display_value="">0004cb255d4a4d74a07fb62701e77529</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_54ea7057f879321073ca7ac27c1aea14</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_54ea7057f879321073ca7ac27c1aea14">2deab057837932107ca3bfc6feaad35b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-21 05:34:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

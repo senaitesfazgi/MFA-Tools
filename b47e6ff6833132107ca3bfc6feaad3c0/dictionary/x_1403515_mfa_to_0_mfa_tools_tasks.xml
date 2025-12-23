@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="e322d38b833132107ca3bfc6feaad3e7" extends="task" label="MFA Tools Tasks" max_length="40" name="x_1403515_mfa_to_0_mfa_tools_tasks" text_index="true" type="collection">
+        <element label="Execution ID" max_length="40" name="u_execution_id" type="string"/>
+        <element label="MFA Option" max_length="40" name="u_mfa_option" type="string"/>
+        <element label="Triggered By" max_length="40" name="u_triggered_by" type="string"/>
+        <element label="Error Details" max_length="40" name="u_error_details" type="html"/>
+        <element label="User Email" max_length="40" name="u_user_email" type="string"/>
+    </element>
+</database>

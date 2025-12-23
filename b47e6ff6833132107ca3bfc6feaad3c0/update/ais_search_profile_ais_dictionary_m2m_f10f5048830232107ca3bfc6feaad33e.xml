@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="x_1403515_mfa_to_0_mfa_toolsv2_search_profile_default_spell_check_dictionary">bd0f5048830232107ca3bfc6feaad33a</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="mfa-toolsv2 Search Profile">080fdc08420232107d643e0fff8b22c0</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-21 05:22:17</sys_created_on>
+        <sys_id>f10f5048830232107ca3bfc6feaad33e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1403515_mfa_to_0_mfa_toolsv2_search_profile_default_spell_check_dictionary.mfa-toolsv2 Search Profile</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_f10f5048830232107ca3bfc6feaad33e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-21 05:22:17</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>
