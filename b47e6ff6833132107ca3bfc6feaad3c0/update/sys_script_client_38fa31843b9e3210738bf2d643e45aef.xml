@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_mfa_option</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>GOA - Populate Execution Details</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+    //g_form.addInfoMessage('Client script is working');
+    var ga = new GlideAjax('x_1403515_mfa_to_0.GOACallFlowFromClient');
+    ga.addParam('sysparm_name', 'runFlowAction');
+
+    ga.addParam('sysparm_submitter_id', g_form.getValue('submitter_id'));
+    ga.addParam('sysparm_ticket', g_form.getValue('ticket_id'));
+    ga.addParam('sysparm_user_email', g_form.getValue('u_user_email'));
+    ga.addParam('sysparm_option', newValue);
+
+    ga.getXMLAnswer(function(response) {
+
+        if (!response) return;
+
+        var result = JSON.parse(response);
+
+        g_form.setValue('mfa_execution_details', result.message);
+
+        if (result.status !== 'success') {
+            g_form.showFieldMsg(
+                'mfa_execution_details',
+                'Action completed with warnings',
+                'warning'
+            );
+        }
+    });
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-02 22:29:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>38fa31843b9e3210738bf2d643e45aef</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>GOA - Populate Execution Details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_script_client_38fa31843b9e3210738bf2d643e45aef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-03 00:09:54</sys_updated_on>
+        <table>x_1403515_mfa_to_0_u_mfa_tools_action_log</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

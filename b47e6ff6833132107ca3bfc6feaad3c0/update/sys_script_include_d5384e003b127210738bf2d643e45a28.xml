@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_1403515_mfa_to_0.GOACallFlowFromClient</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <mobile_callable>false</mobile_callable>
+        <name>GOACallFlowFromClient</name>
+        <sandbox_callable>false</sandbox_callable>
+        <script><![CDATA[var GOACallFlowFromClient = Class.create();
+GOACallFlowFromClient.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+    runFlowAction: function () {
+
+        var inputs = {
+            submitter_id: this.getParameter('sysparm_submitter_id'),
+            ticket: this.getParameter('sysparm_ticket'),
+            user_email: this.getParameter('sysparm_user_email'),
+            option: this.getParameter('sysparm_option')
+        };
+
+		gs.addInfoMessage('This is the script include ' + inputs.submitter_id);
+
+        var result = sn_fd.FlowAPI.getRunner()
+            .action('2c70c2403bde3210738bf2d643e45a64')
+            .inForeground()
+            .withInputs(inputs)
+            .run();
+
+        var outputs = result.getOutputs();
+
+        return JSON.stringify({
+            status: outputs.status,
+            message: outputs.output
+        });
+    }
+});
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-01-02 23:23:04</sys_created_on>
+        <sys_id>d5384e003b127210738bf2d643e45a28</sys_id>
+        <sys_mod_count>13</sys_mod_count>
+        <sys_name>GOACallFlowFromClient</sys_name>
+        <sys_package display_value="MFA Tools" source="x_1403515_mfa_to_0">b47e6ff6833132107ca3bfc6feaad3c0</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="MFA Tools">b47e6ff6833132107ca3bfc6feaad3c0</sys_scope>
+        <sys_update_name>sys_script_include_d5384e003b127210738bf2d643e45a28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-01-03 00:06:36</sys_updated_on>
+    </sys_script_include>
+</record_update>
